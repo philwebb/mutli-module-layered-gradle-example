@@ -1,0 +1,1 @@
+Example for https://stackoverflow.com/questions/63763154/when-building-layered-jars-in-spring-boot-how-do-you-include-a-multi-module-pro

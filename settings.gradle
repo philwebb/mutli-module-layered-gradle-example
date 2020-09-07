@@ -1,0 +1,5 @@
+rootProject.name = 'myproject'
+include 'aa'
+include 'ab'
+include 'ac'
+include 'myapp'
